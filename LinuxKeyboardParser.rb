@@ -9,7 +9,7 @@ require 'binary_struct'
 #!!!!CHANGE ME TO YOUR KEYBOARD DEVICE!!!!!#
 ############################################
 # Device to READ
-DEVICE = '/dev/input/event3'
+DEVICE = '/dev/input/event0'
 
 # Keymappings, more can be found at
 # https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h
